@@ -7,7 +7,7 @@ def crypt(word):
 	numletter = []
 	numkey = []
 	numcrypt = []
-	key = "thisistherandomgeneratedshittykeybpaeqmjvf"
+	key = "YOUR KEY HERE"
 	crypted = []
 
 
